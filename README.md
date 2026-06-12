@@ -31,3 +31,4 @@ Event handling with onclick
 CSS Grid for button layout
 Basic error handling using try...catch
 Building interactive web applications
+```
